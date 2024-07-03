@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victoria-sharpe. 
-- 👀 I’m interested in data visualization, machine learning, mental health, and language. I like plants and rats and food. 
+- 👀 I’m interested in data visualization, machine learning, mental health, and language. 
 - 🌱 I’m currently learning Bokeh. 
 - 📫 How to reach me: vsharpe7@gmail.com
 
